@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tijay06&show_icons=true&locale=en" alt="tijay06" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tijay06&" alt="tijay06" /></p>
-<p><img src="https://raw.githubusercontent.com/tijay06/tijay06/output/snake.svg" alt="Snake animation" /></p>
+
