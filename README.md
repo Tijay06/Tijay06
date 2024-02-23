@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tijay Poddar</h1>
 <h3 align="center">A paData Scientist | Problem Solver | Learner Unlocking Insights with Data | Building Models that Make a Difference Passionate about Data | Exploring, Analyzing, and Predicting Data-Driven Decisions | Transforming Data into Actionable Insights Curious Coder | Crafting Solutions with Data Sciencessionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tijay06&label=Profile%20views&color=0e75b6&style=flat" alt="tijay06" /> </p>
 
 - 🌱 I’m currently learning **Data Science||Ai & ML**
